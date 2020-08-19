@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    /* min-width: 320px; */
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.header, 
+nav,
+ul {
+    flex-flow: row;
+    justify-content: space-between;
+    display: flex;
+}
+
+li {
+    margin-left: 10px;
+}
