@@ -1,2 +1,2 @@
 import "./styles/style.css";
-import "./m10/module-10"
+import "./js/module-10";
